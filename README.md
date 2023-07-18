@@ -2,11 +2,11 @@
 
 This is an online quiz organizing website project, developed using  PHP. You can join quizzes with a unique key.
 
-Database Design:
+### Database Design:
 
 ![vt](https://github.com/smtttlck/quiz-app/assets/61507892/997cde65-d426-49ce-b6ac-900668e1b2cf)
 
-Screenshots:
+### Screenshots:
 
 ![ss1](https://github.com/smtttlck/quiz-app/assets/61507892/3dc65a3f-ffea-4c2c-8fc8-dd569eba6f83)
 
